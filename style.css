@@ -45,11 +45,6 @@ ul li a{
     padding-left: 4px;
     cursor: pointer;
 }
-
-#logo img:hover{
-   transform: scale(1.5);
-}
-
 #deek{
     background-image: black;
     background-position: center center;
