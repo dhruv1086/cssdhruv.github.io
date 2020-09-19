@@ -46,6 +46,10 @@ ul li a{
     cursor: pointer;
 }
 
+#logo img{
+   transform: scale(1.5);
+}
+
 #deek{
     background-image: black;
     background-position: center center;
